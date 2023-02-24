@@ -1,0 +1,15 @@
+[
+  {
+    "username": "Uliana",
+    "password": "$2b$10$23kMB/407X1xa2idQhBXF.11zoxo2wRYysZE6PydoQRdoff3/eE62"
+  },
+  {
+    "username": "Uliana2",
+    "password": "$2b$10$/BBRBpXL9yblB/iFxvjrBexnfg.QV538iwFMHO/us5DYK3nrNohkK"
+  },
+  {
+    "username": "Olena",
+    "password": "$2b$10$28fx17cMr1pmP52hpImpXuQW0gEzTIYHNyqZpM.RQymKaVQgoyAwe",
+    "refreshToken": ""
+  }
+]
