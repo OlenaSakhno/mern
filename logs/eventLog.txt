@@ -383,3 +383,52 @@
 20230224	14:19:59	a2ab591a-59a6-4fb1-b43c-5771ccf7af3d	SyntaxError: Unexpected token f in JSON at position 9 
 20230224	14:23:44	483ccdf4-83f9-4b9c-9c81-c4ccd1e5a7e4	POST	undefined	/auth
 20230224	14:23:53	691194af-aef8-4ec9-b3de-fe891245cdfe	DELETE	undefined	/employees
+20230415	15:40:24	7b6ef23f-3324-4b3d-bfb0-e3389c089716	OPTIONS	undefined	/register
+20230415	15:40:24	deb9eded-6108-4f9f-a178-80328c2cdafd	Error: Not allowed by CORS 
+20230415	15:41:05	cce6d362-0d3c-4ee2-9c7f-672ac67082c4	OPTIONS	undefined	/register
+20230415	15:41:09	2b60b353-8ec6-4d86-bb77-cef199dfb059	OPTIONS	undefined	/register
+20230415	15:41:16	fb095755-8f3d-444c-88f4-f3fa3a6fed02	OPTIONS	undefined	/register
+20230415	15:41:28	bccb8d15-b020-4fc8-a1f1-a67fa68333e2	OPTIONS	undefined	/register
+20230415	15:42:12	e1dec240-bcae-4120-8740-6c9efa2e96f8	OPTIONS	undefined	/register
+20230415	15:42:35	d91bba58-7012-47ec-8f2a-9c0a4c430f73	OPTIONS	undefined	/register
+20230415	15:45:08	55b5771b-21d7-47a5-adec-4d2beb759ff0	OPTIONS	undefined	/register
+20230415	15:45:54	bc9906ed-5296-4b7d-ad35-b5bb93ac1f90	Error: Not allowed by CORS 
+20230415	15:45:54	c3536b7b-a60e-4e97-921f-66c580f50159	OPTIONS	undefined	/register
+20230415	15:46:33	bae4622d-010d-4029-ad19-d6aa0e10483f	OPTIONS	undefined	/register
+20230415	15:46:33	deef52aa-8057-4e6e-9dd7-ff6e102a0c79	Error: Not allowed by CORS 
+20230415	15:51:11	6f01dd5b-f0ad-4d85-b728-aacdc1d6cfc0	OPTIONS	undefined	/register
+20230415	15:51:36	cb47af99-4f50-482f-bec8-0811a8330ebf	OPTIONS	undefined	/register
+20230415	15:51:36	ba534917-fe0b-4999-b7a0-9467092bc00e	ReferenceError: oallowedOrigins is not defined 
+20230415	15:51:47	ba3cc998-b555-4b2a-91d6-93cb23ad2318	OPTIONS	undefined	/register
+20230415	15:58:36	905e9c38-9465-4eee-8161-687f90cabec3	GET	undefined	/register
+20230415	15:58:36	58e53854-0098-432f-9b96-35dbff02cf11	GET	undefined	/favicon.ico
+20230415	15:59:06	f67cc537-a2f3-4ae0-bc8c-ffb9c2b868e1	OPTIONS	undefined	/register
+20230415	15:59:06	a7ecd9dc-3e85-4cf7-9892-5797efe9a0b7	undefined: undefined 
+20230415	16:00:11	73bfda70-53c1-45a8-91d5-917ecd8cc6a4	OPTIONS	undefined	/register
+20230415	16:02:16	e9209918-40f9-4dc2-a4ea-8e9c690b0312	OPTIONS	undefined	/register
+20230415	16:02:29	1f0ae9ce-f326-44ed-af10-0b2dab0a7a0c	OPTIONS	undefined	/register
+20230415	16:02:58	1a68f906-25ff-43d6-986e-5a85862f0d5b	OPTIONS	undefined	/register
+20230415	16:03:24	de756193-4a9e-42c1-a359-9484f8ba1257	OPTIONS	undefined	/register
+20230415	16:04:55	166f6118-7653-40ab-b854-1469c3a5385f	OPTIONS	undefined	/register
+20230415	16:05:05	9a72ebc7-617e-4542-8702-425342b47d68	OPTIONS	undefined	/register
+20230415	16:05:20	c31d1b1d-e3e2-4cf2-b9de-4d719d000580	OPTIONS	undefined	/register
+20230415	16:06:20	c580934a-b342-4561-867e-9a94293ef01f	OPTIONS	undefined	/register
+20230415	16:07:38	f5089c92-5568-4259-b2ee-c457a9e56f26	OPTIONS	undefined	/register
+20230415	16:07:38	16f7ad5e-f9ea-4e01-b1f0-592964c8708c	ReferenceError: kHeaders is not defined 
+20230415	16:08:09	1dad5d6f-af0e-4b94-bf94-4e179e5f47a6	OPTIONS	undefined	/register
+20230415	16:08:09	c58ccc7e-766d-4523-b33e-fb761d266cdf	ReferenceError: kHeaders is not defined 
+20230415	16:08:26	09210444-9183-4399-b325-68d11e42dd2e	OPTIONS	undefined	/register
+20230415	16:08:35	a07bdae3-ab4b-417d-8187-a8e65989991a	OPTIONS	undefined	/register
+20230415	16:09:26	dca46d09-7c27-4a13-b6c8-4b27ef6d8cc1	OPTIONS	undefined	/register
+20230415	16:09:40	5858318c-fdfd-4615-a824-eb7fa9d7e90b	OPTIONS	undefined	/register
+20230415	16:09:40	279176ae-d331-41f7-9f9b-ba84efc2a9d5	POST	undefined	/register
+20230415	16:09:41	a1c1b667-35f7-42c9-a7d9-ffac0b2f9f27	OPTIONS	undefined	/register
+20230415	16:09:41	f7f696da-c98d-45e5-a3c1-cd65e04e2a6c	POST	undefined	/register
+20230415	16:26:33	6915a6ba-c05a-4698-8c2c-4c16266c7828	OPTIONS	undefined	/register
+20230415	16:26:33	85cb560f-9b2f-4da5-ae51-e5dcda61d93f	POST	undefined	/register
+20230415	16:26:42	3dfb1ad5-01c2-428e-8ab3-3e593788ab09	OPTIONS	undefined	/register
+20230415	16:26:42	c1f6bca1-0925-4877-a4fc-67d1a5fb0b83	POST	undefined	/register
+20230415	16:29:12	e931b7fb-a787-4ee2-b5b4-e62a3e8ff2f8	OPTIONS	undefined	/register
+20230415	16:29:12	1d6d502b-72d1-4c33-933e-dcd113d08403	POST	undefined	/register
+20230415	16:31:27	1b318c93-5304-4fa0-805e-c283a7d6abf4	OPTIONS	undefined	/register
+20230415	16:31:27	3860bfba-737d-4294-9f38-36eca1be6f14	POST	undefined	/register
